@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhushani0510&label=Profile%20views&color=0e75b6&style=flat" alt="madhushani0510" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@MadhushaniGama2" target="blank"><img src="https://img.shields.io/twitter/follow/@madhushanigama2?logo=twitter&style=for-the-badge" alt="@madhushanigama2" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@madhushani0510" target="blank"><img src="https://img.shields.io/twitter/follow/@madhushani0510?logo=twitter&style=for-the-badge" alt="@madhushani0510" /></a> </p>
 
 - 🌱 I’m currently learning **Web Development & Project Management**
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@madhushanigama2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@madhushanigama2" height="30" width="40" /></a>
+<a href="https://twitter.com/@madhushani0510" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@madhushani0510" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/madhushanigamage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madhushanigamage" height="30" width="40" /></a>
 </p>
 

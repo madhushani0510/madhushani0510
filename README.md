@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhushani0510&label=Profile%20views&color=0e75b6&style=flat" alt="madhushani0510" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@madhushanigama2" target="blank"><img src="https://img.shields.io/twitter/follow/@madhushanigama2?logo=twitter&style=for-the-badge" alt="@madhushanigama2" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@MadhushaniGama2" target="blank"><img src="https://img.shields.io/twitter/follow/@madhushanigama2?logo=twitter&style=for-the-badge" alt="@madhushanigama2" /></a> </p>
 
 - 🌱 I’m currently learning **Web Development & Project Management**
 

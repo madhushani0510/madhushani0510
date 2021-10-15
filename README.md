@@ -25,3 +25,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=madhushani0510&show_icons=true&locale=en&layout=compact" alt="madhushani0510" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madhushani0510&show_icons=true&locale=en" alt="madhushani0510" /></p>
+
+<p align="center">
+<a href="https://profile.codersrank.io/user/madhushani0510"><img width="814px"
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=pazindushane&labels=true"
+/></a>
+</p>
